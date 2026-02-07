@@ -1,0 +1,160 @@
+{
+  "book_id": "latin_american_boom_confessional_class_struggle",
+  "title": "The River of Confession",
+  "tagline": "A boy sells his memories to a foreign writer, trading the truth of poverty for the price of survival.",
+  "target_words": 70000,
+  "actual_words": 75854,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Confession as Transaction",
+    "The Commodification of Memory",
+    "The Gaze of the Outsider",
+    "The Physicality of Poverty"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Mango Thief",
+      "words": 3160
+    },
+    {
+      "ch": 2,
+      "title": "Room 17",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The First Confession",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Ledger Page",
+      "words": 3150
+    },
+    {
+      "ch": 5,
+      "title": "The Sound of Coughing",
+      "words": 3050
+    },
+    {
+      "ch": 6,
+      "title": "The Hotel Inglaterra",
+      "words": 3300
+    },
+    {
+      "ch": 7,
+      "title": "Sebastián's Map",
+      "words": 3250
+    },
+    {
+      "ch": 8,
+      "title": "The Price of a Story",
+      "words": 3100
+    },
+    {
+      "ch": 9,
+      "title": "Calle Martí",
+      "words": 3150
+    },
+    {
+      "ch": 10,
+      "title": "The Priest's Silence",
+      "words": 3000
+    },
+    {
+      "ch": 11,
+      "title": "The Empty Pool",
+      "words": 3050
+    },
+    {
+      "ch": 12,
+      "title": "A River of Paper",
+      "words": 3200
+    },
+    {
+      "ch": 13,
+      "title": "The Boy with the Shoes",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "The Foreign Cigarette",
+      "words": 3150
+    },
+    {
+      "ch": 15,
+      "title": "The Myth of the Boom",
+      "words": 3300
+    },
+    {
+      "ch": 16,
+      "title": "The Second Confession",
+      "words": 3050
+    },
+    {
+      "ch": 17,
+      "title": "The Stolen Fan",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "The Veranda Murmur",
+      "words": 3000
+    },
+    {
+      "ch": 19,
+      "title": "The Weight of Pesos",
+      "words": 3150
+    },
+    {
+      "ch": 20,
+      "title": "The Typewriter's Song",
+      "words": 3200
+    },
+    {
+      "ch": 21,
+      "title": "The Choked Gutter",
+      "words": 3050
+    },
+    {
+      "ch": 22,
+      "title": "The Last Mango",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "The Confessor's Debt",
+      "words": 3250
+    },
+    {
+      "ch": 24,
+      "title": "The River's Mouth",
+      "words": 3184
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a 'confession' from the perspective of a mundane object in Tomás's room (the broken fan, the hollow table leg, the chipped plate). What has it witnessed?",
+      "Create a new chapter where Sebastián interviews another resident of the barrio—the baker, the laundress, a local militiaman. How does their 'river' differ from Tomás's?",
+      "Write a scene from Sebastián Mora's past that explains why he became a 'thief of stories.' What confession is *he* avoiding?",
+      "Imagine the novel Tomás and Sebastián are co-creating. Write a passage of 'magical realism' that grotesquely exaggerates a true, gritty detail from Tomás's life."
+    ],
+    "technical": [
+      "Build an interactive 'confession booth' web experience where users can anonymously submit short, sensory memories (a smell, a sound, a texture) to build a collective 'river' of a place.",
+      "Create a data visualization that maps the economic transactions in the novel: the pesos, the mangoes, the medicine, the stolen ledger. Represent the flow of value and its human cost."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Gabriel García Márquez (mythologizing the mundane)",
+      "Juan Rulfo (sparse, brutal realism)",
+      "Fyodor Dostoevsky (psychology of guilt and confession)",
+      "James Baldwin (intersection of personal narrative and systemic injustice)"
+    ]
+  },
+  "cover_prompt": "A young boy, gaunt and solemn, offers a glowing, liquid memory from his cupped hands to the poised pen of a shadowy foreign writer seated at a rustic table, [Detailed Scene & Context: set on the muddy bank of a vast, flowing river at dusk, with the boy's humble village of corrugated metal shacks visible in the background, the transaction framed by hanging laundry and sparse, resilient weeds], [Artistic Style & Medium: in the atmospheric, textured, and magically realist style of a Latin American Boom painter, reminiscent of the layered symbolism and earthy tones of Fernando Botero's early figurative work and the haunting narrative depth of Antonio López García, rendered in thick, expressive oil paints], [Composition & Camera: book cover framing, a centered and intimate composition with a slight low-angle perspective emphasizing the boy's offering, dramatic and close], [Lighting & Color Palette: illuminated by the last amber light of sunset cutting through humid air, casting long shadows and highlighting the poverty-stricken details, with a color palette of deep earth browns, rusty oranges, murky river greens, and the ethereal cobalt blue of the extracted memory], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
