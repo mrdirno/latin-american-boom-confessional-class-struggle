@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 My father taught me that confession is a transaction between equals. The first thing I stole for her was a mango, but the first thing I confessed to the priest was the theft of a ledger page from the Hotel Inglaterra, its numbers proving my father’s wages were a fiction. The sin was not the fruit. It was knowing the price of everything, including God’s forgiveness.
@@ -76,6 +78,8 @@ I took it. The transaction was complete, and yet it felt like something had just
 “I will try to get it right,” he said simply. “That is all any of us can do. Now go. Buy the medicine. Come back tomorrow. Same time. Bring me the smell of the pharmacy. Bring me the face of the man who sells you the fan.”
 
 I left, the money a secret fire in my pocket. As I walked down the hall, I heard the soft clack of his typewriter begin behind me, a steady, purposeful rhythm, like a heartbeat. He was already turning my river into words. I didn’t know if I felt violated or seen. Maybe both. But the pesos were real. And for the first time in months, the night air outside the Hotel Splendour didn’t feel like a weight. It felt like a current. And I was in it.
+
+# Chapter 2
 
 ## **CHAPTER 2**
 
@@ -190,6 +194,8 @@ He was offering me a door back to safety, and a path deeper into the labyrinth. 
 Sebastián Mora smiled, a thin, determined line. “You tell him I am very interested in the ghost of the Spanish garrison commander’s wife. And you and I, Tomás, will talk about the living. We will talk about the union organizer who disappeared from the cigar factory in ’68. Your mother must have known him.”
 
 The game was on. I was no longer just a storyteller. I was a smuggler. And the contraband was the truth.
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
